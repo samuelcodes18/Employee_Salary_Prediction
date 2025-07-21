@@ -3,21 +3,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [📖 Project Overview](#project-overview)  
-- [📊 Dataset](#dataset)  
-- [📁 Project Structure](#project-structure)  
-- [⚙️ Setup and Installation](#setup-and-installation)  
-- [📓 Running the Notebook](#running-the-notebook)  
-- [🚀 Running the Streamlit App](#running-the-streamlit-app)  
-- [🧠 Model](#model)  
-- [📈 Results](#results)  
-- [🤝 Contributing](#contributing)  
-- [📄 License](#license)  
-
----
-
 ## 📖 Project Overview
 
 This project aims to build a **binary classification** machine learning model that predicts whether an individual's annual salary exceeds **$50,000** based on various demographic and professional features.
