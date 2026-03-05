@@ -51,12 +51,19 @@ The dataset used is `Salary_List.csv`, containing the following features:
 
 ## 📁 Project Structure
 Employee_Salary_Prediction/
+
 │
+
 ├── app.py # Streamlit app
+
 ├── model.joblib # Saved ML model
+
 ├── Salary_List.csv # Dataset
+
 ├── salary_prediction.ipynb # Jupyter notebook for development
+
 ├── requirements.txt # Required libraries
+
 └── README.md # Project documentation
 
 
